@@ -4,3 +4,7 @@ logger:
 telegram:
   token: 
   timeToKill: 15
+html-parser:
+  username: 
+  password: 
+  host: 'https://www.packtpub.com'
