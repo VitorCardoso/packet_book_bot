@@ -1,2 +1,5 @@
 python-telegram-bot
 pyyaml
+beautifulsoup4
+lxml
+requests
